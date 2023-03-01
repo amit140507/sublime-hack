@@ -1,6 +1,6 @@
 ## Remove Line space
 `CTRL`+`H`
-type ```^\n``` 
+type ```^\n```  or `^(\r|\n\r?)`
 Replace with Nothing.
 
 ## ReIndentation Key Binding
